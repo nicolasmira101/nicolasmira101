@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi I'm Nicolás
 
-<!--
-**nicolasmira101/nicolasmira101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+Cyber Security Professional with 4 years of experience in Application Security, Penetration Testing and Cloud Security, specializing in the banking and education sectors. My professional interests include the areas of Digital Security and New Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+
+- [Certified in Cybersecurity](https://www.credly.com/badges/1fd2b553-0779-407f-b506-563158f83fc6/public_url)
+- [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QCEDQERNL25W)
+- [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/c0f27f40-347d-49a8-bc14-b6849fc330ec/public_url)
+
+### Cybersecurity Repository
+
+- Information Security
+- Offensive Security
+- Cloud Security
+- Defensive Security
+
+### Projects
+
+- [Cybersecurity Maturity Model for Electronic Health Records in Colombia](https://repository.javeriana.edu.co/bitstream/handle/10554/64803/attachment_0_memoria.pdf?sequence=1&isAllowed=y)
+
+
