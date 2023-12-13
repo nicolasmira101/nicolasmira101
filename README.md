@@ -12,10 +12,10 @@ Cyber Security Professional with 4 years of experience in Application Security, 
 
 ### Cybersecurity Repositories
 
-- Information Security
-- Offensive Security
-- Cloud Security
-- Defensive Security
+- [Information Security](https://github.com/nicolasmira101/Information-security)
+- [Cloud Security](https://github.com/nicolasmira101/Cloud-security)
+- [Offensive Security](https://github.com/nicolasmira101/Offensive-security)
+- [Defensive Security](https://github.com/nicolasmira101/Defensive-security)
 
 ### Projects
 
