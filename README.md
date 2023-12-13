@@ -10,7 +10,7 @@ Cyber Security Professional with 4 years of experience in Application Security, 
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QCEDQERNL25W)
 - [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/c0f27f40-347d-49a8-bc14-b6849fc330ec/public_url)
 
-### Cybersecurity Repository
+### Cybersecurity Repositories
 
 - Information Security
 - Offensive Security
