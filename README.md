@@ -20,13 +20,13 @@ Cyber Security Professional with 5 years of experience in Application Security, 
 ### Projects
 
 - [Thesis - Cybersecurity Maturity Model for Electronic Health Records in Colombia](https://repository.javeriana.edu.co/bitstream/handle/10554/64803/attachment_0_memoria.pdf?sequence=1&isAllowed=y)
-- [Academic Article - Cyberwarfare](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/EW5JyYI72lZHusakWwXKHqEBTleYVum7lr4APcT-aOBujA?e=loanw1)
-- [Academic Article - Social Engineering](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/EXRxY00_qw1FtQ4NBfNixdIBVeno6Qen97yM20nlfIh5AA?e=Fw6guC)
-- [Academic Article - Hacking IIS](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/EazE2mc3kK1FrkwJftp7I7EBsfNz39c-VykiwgbxWGkx4g?e=apXQGt)
-- [Academic Article - Security of the Data Link Layer](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/ETgcDzyWXs1Mv6HXQyB1VBgBjymmvPudouiOtS_wE2Jw3A?e=oLuguf)
-- [Academic Article - Single Sign On](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/ESv6r1M6vCdLhtOrrAx783cBLKvzIRWC-g9m_k__5UCUWw?e=KFbTBY)
-- [Cybersecurity Risk Management - Healthcare Case Study](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/EfjIEKUHi-VPq6_NJdgj9ScBXbjODdUd-AoZBLovmzLPzw?e=J5tkGk)
-- [Cybersecurity Risk Management - IT Case Study](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/EQQ_xoDP0n9DqFx6Tirfl-8BtZ4cVxWpTGC65iyiLxfbmg?e=bAbp9V)
-- [Pentesting - Report DVWA](https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/nicolasmiranda_javeriana_edu_co/Eb-45dm2Id1GhWFUy9TvRTkBmFwIoWsfgQZ5R3u_s5MsRQ?e=SNzfcC)
+- [Academic Article - Cyberwarfare](https://1drv.ms/b/c/4aeb43f5f7d3405f/EdinxeRLed9PuMYyZdyh80EBZ0DJ733IxAOIcWOqeE9w8Q?e=mzeqj5)
+- [Academic Article - Social Engineering](https://1drv.ms/b/c/4aeb43f5f7d3405f/Eb8ci19pv5pDjkxTHsOEZJ0B4xMTU3QGx8nIBEDTI__vmQ?e=hxOTLq)
+- [Academic Article - Hacking IIS](https://1drv.ms/b/c/4aeb43f5f7d3405f/EaUgIAifHR5JoFAZzfTIPswB90TR3r_ktqP2wkOfx57nmA?e=ccphG6)
+- [Academic Article - Security of the Data Link Layer](https://1drv.ms/b/c/4aeb43f5f7d3405f/Eca2iIcz3kdAirqCz2Kd02wB6Nre8x2ztjps28Wy1xPkzQ?e=lRhb3w)
+- [Academic Article - Single Sign On](https://1drv.ms/b/c/4aeb43f5f7d3405f/EXqM8oVjdslOtQOAt7L2VkoBne3XyMfQ5noEE5xH0aFyQg?e=0ygvZv)
+- [Cybersecurity Risk Management - Healthcare Case Study](https://1drv.ms/b/c/4aeb43f5f7d3405f/EeSasxJs6Y9AiXr-4DFjyPEBlRktUhrWkgbrg579EmpLPw?e=JXHjGX)
+- [Cybersecurity Risk Management - IT Case Study](https://1drv.ms/b/c/4aeb43f5f7d3405f/EVZ4CnqmnmZMleos9CjwBJMBymI8vLSn8lHnb57ybYhY7A?e=ISlnW0)
+- [Pentesting - Report DVWA](https://1drv.ms/b/c/4aeb43f5f7d3405f/EW1_mzpn5ixOvzm9FAf6UI0BlwmlBe3Q8a0pjlfgpr--AQ?e=8Zre9B)
 
 
