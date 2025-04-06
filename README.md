@@ -6,6 +6,7 @@ Cyber Security Professional with 5 years of experience in Application Security, 
 
 ### Certifications
 
+- [ISO 27001 Internal Auditor](https://learning.sgs.com/lmt/!clmscertificate.prVerify?site=sgsssc&in_region=co&in_lang=es)
 - [Certified in Cybersecurity](https://www.credly.com/badges/1fd2b553-0779-407f-b506-563158f83fc6/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/c0f27f40-347d-49a8-bc14-b6849fc330ec/public_url)
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QCEDQERNL25W)
