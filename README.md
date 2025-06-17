@@ -2,7 +2,7 @@
 
 ### About
 
-Cyber Security Professional with 5 years of experience in Application Security, Penetration Testing and Information Security, specializing in the banking and education sectors. My professional interests include the areas of Digital Security and New Technologies.
+Cyber Security Professional with 6 years of experience in Application Security, Penetration Testing and Information Security, specializing in the banking and education sectors. My professional interests include the areas of Digital Security and New Technologies.
 
 ### Certifications
 
